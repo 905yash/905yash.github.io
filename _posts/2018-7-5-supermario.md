@@ -25,7 +25,7 @@ We finally had a working product the way we wanted it and here are some screensh
     <img src="/assets/images/inGame.PNG"
         alt=""
         style="float: left; margin-right: 5px; width: 100%; height: 100%" />
-    <figcaption class="post-font">How the game looks while playing</figcaption>
+    <figcaption class="post-font"><i>How the game looks while playing</i></figcaption>
 <figure>
 
 <br>
@@ -33,7 +33,7 @@ We finally had a working product the way we wanted it and here are some screensh
     <img src="/assets/images/leadersboard.PNG"
         alt=""
         style="float: left; margin-right: 5px; width: 100%; height: 100%" />
-    <figcaption class="post-font">Leaderboard at the end</figcaption>
+    <figcaption class="post-font"><i>Leaderboard at the end</i></figcaption>
 </figure> 
 
 

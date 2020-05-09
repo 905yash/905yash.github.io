@@ -11,9 +11,9 @@ After finishing an introduction to python course I decided I wanted to apply wha
 
 Eventually, I ended up using a couple of tutorials and created a blogging platform using Flask and a Postgres database deployed on Heroku. The blogging site has simple functionality for users to create accounts, login/reset passwords, create posts, update posts, delete posts, and read other user’s posts. Furthermore, I read the Twitter and Facebook developer documents and added a share on Twitter and share on Facebook button to the site. <br><br>
 
-<a href="https://honest-opinion.herokuapp.com/">Click here to check out the blog</a>
+<a href="https://honest-opinion.herokuapp.com/">Click here to check out the blog</a><br>
 
-
+<br>
 <img src="/assets/images/HO.PNG"
     alt=""
     style="margin-right: 5px; width: 100%; height: 100%" />

@@ -11,7 +11,7 @@ nav-menu: true
         style="float: right;margin-left: 5px; width: 45%; height: 45%" />
 </div>
 
-<p>I’m currently a first-year student studying Systems Design Engineering at the University of Waterloo. Recently, I finished aninternship at OpenText working as a Software Quality Assurance Specialist and I’m seeking summer 2021 internships in software development roles. Outside of school and work, I’m a huge hockey and tennis fan and have been playing both since I was eight. I love the outdoors, am always ready to go for a hike and enjoy challenging myself with solving riddles and puzzles. <br><br>
+<p>I’m currently a second-year student studying Systems Design Engineering at the University of Waterloo. I am currently working as Full Stack Engineer at Lean Payments and have experience working at OpenText as a Software Quality Assurance Specialist and <b>I’m seeking summer 2021 internships</b> in software development roles. Outside of school and work, I’m a huge hockey and tennis fan and have been playing both since I was eight. I love the outdoors, am always ready to go for a hike and enjoy challenging myself with solving riddles and puzzles. <br><br>
 
  
 Feel free to reach out:<br>

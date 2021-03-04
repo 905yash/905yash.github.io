@@ -1,8 +1,8 @@
 # site settings
-title: Yash Gajaria
+title: Y.Co
 subtitle: 
-email: ygajaria@uwaterloo.ca
-description: 2A SYDE @UWaterloo
+email: 
+description: Bringing Ideas to Reality
 baseurl:  # the subpath of your site, e.g. /blog
 url: https://yashg.me # the base hostname & protocol for your site
 author:
@@ -11,7 +11,7 @@ city: Toronto
 state: 
 zip_code: 
 country: Canada
-phone: (647) 937 3138
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -20,11 +20,11 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/yashgajaria
+github_url: 
 gitlab_url: 
 googleplus_url: 
 instagram_url: 
-linkedin_url: https://www.linkedin.com/in/yashgajaria/
+linkedin_url: 
 pinterest_url:
 slack_url:
 twitter_url: 

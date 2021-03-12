@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome!'
+landing-title: 'We will be back soon!'
 description: null
 image: null
 author: null

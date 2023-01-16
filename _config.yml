@@ -2,7 +2,7 @@
 title: Yash Gajaria
 subtitle: 
 email: ygajaria@uwaterloo.ca
-description: 3A SYDE @UWaterloo
+description: 3B SYDE @UWaterloo
 baseurl:  # the subpath of your site, e.g. /blog
 url: https://yashg.me # the base hostname & protocol for your site
 author:
@@ -11,7 +11,7 @@ city: Toronto
 state: 
 zip_code: 
 country: Canada
-phone: (647) 937 3138
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

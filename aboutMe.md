@@ -11,7 +11,7 @@ nav-menu: true
         style="float: right;margin-left: 5px; width: 45%; height: 45%" />
 </div>
 
-<p>I’m currently a fourth-year student studying Systems Design Engineering at the University of Waterloo. Previously, I worked as <b>Technical Product Manager at data.world, Product Manager at bld.ai, Software Engineer at Capital One </b>and as a Full Stack Developer at an early-stage startup, Lean Payments, and <b>I’m seeking summer 2023 internships</b> in product roles. I've been actively involved with student organizations; serving as a core member of the UW Product Management Club team and building solutions for non-profits with UW Blueprint. Outside of school and work, I’m a huge hockey and tennis fan and have been playing both since I was eight. I love the outdoors, am always ready to go for a hike and enjoy challenging myself with long distance running. <br><br>
+<p>I’m currently a final-year student studying Systems Design Engineering at the University of Waterloo. I'm currently a <b>Product Manager at Arctic Wolf Networks</b> and have previously worked as Technical Product Manager at data.world, Product Manager at bld.ai, Software Engineer at Capital One and as a Full Stack Developer at an early-stage startup, Lean Payments. <b>I’m currently seeking spring 2024 new-grad product and software roles</b>. I've been actively involved with student organizations; serving as a core member of the UW Product Management Club team and building solutions for non-profits with UW Blueprint. Outside of school and work, I’m a huge hockey and tennis fan and have been playing both since I was eight. I love the outdoors, am always ready to go for a hike and enjoy challenging myself with long distance running. <br><br>
 
  
 Feel free to reach out:<br>
